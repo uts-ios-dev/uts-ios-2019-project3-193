@@ -2,7 +2,7 @@
 //  ResetPasswordView.swift
 //  ass3
 //
-//  Created by 王曜 on 25/5/19.
+//  Created by Vicky Shi on 25/5/19.
 //  Copyright © 2019 Vicky Shi. All rights reserved.
 //
 
